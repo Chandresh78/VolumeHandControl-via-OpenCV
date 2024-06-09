@@ -1,5 +1,3 @@
-Here's a comprehensive `README.md` file for the provided "VolumeHandControl" project code:
-
 ```markdown
 # VolumeHandControl
 
