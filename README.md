@@ -104,9 +104,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 For any questions or suggestions, feel free to contact me at chandresh00rajpoot@gmail.com.
 
-```
-
-### Explanation
+## Explanation
 
 1. **Project Description**: Provides a brief overview of the project and its features.
 2. **Requirements**: Lists the necessary Python version and libraries.
