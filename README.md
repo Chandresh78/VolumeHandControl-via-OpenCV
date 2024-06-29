@@ -1,4 +1,3 @@
-```markdown
 # VolumeHandControl
 
 VolumeHandControl is a Python project that uses computer vision and hand gesture recognition to control the system volume. The project leverages the Mediapipe library for hand detection and gesture recognition, and the Pycaw library for controlling the system volume on Windows.
@@ -117,5 +116,3 @@ For any questions or suggestions, feel free to contact me at chandresh00rajpoot@
 9. **Contributing**: Invitation for contributions.
 10. **Acknowledgements**: Credits to libraries and resources used.
 11. **Contact Information**: Provides a way to contact for support or suggestions.
-
-Feel free to modify the contact information and any other details as per your requirements.
