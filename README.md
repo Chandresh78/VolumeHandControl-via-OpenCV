@@ -102,17 +102,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## Contact
 
 For any questions or suggestions, feel free to contact me at chandresh00rajpoot@gmail.com.
-
-## Explanation
-
-1. **Project Description**: Provides a brief overview of the project and its features.
-2. **Requirements**: Lists the necessary Python version and libraries.
-3. **Installation Instructions**: Detailed steps to set up the project, including cloning the repository, setting up a virtual environment, and installing dependencies.
-4. **Usage**: Instructions to run the script.
-5. **How It Works**: A summary of how the project functions.
-6. **Code Explanation**: Highlights key components and their roles in the script.
-7. **Troubleshooting**: Common issues and solutions.
-8. **License**: License information.
-9. **Contributing**: Invitation for contributions.
-10. **Acknowledgements**: Credits to libraries and resources used.
-11. **Contact Information**: Provides a way to contact for support or suggestions.
